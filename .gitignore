@@ -1,0 +1,5 @@
+# Executables (Linux / Codespaces)
+game
+
+# Windows executables
+*.exe
